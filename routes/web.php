@@ -13,6 +13,39 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
 Route::get('/', function () {
+    return view('home');
+});
+ 
+Route::get('/laravel', function () {
     return view('welcome');
+});
+
+Route::get('/sobre-nos', function () {
+    return view('about');
+});
+
+Route::get('/pilares-e-valores', function () {
+    return view('pilars');
+});
+
+Route::get('/nossa-infraestrutura', function () {
+    return view('infra');
+});
+
+Route::get('/ensinos', function () {
+    return view('learning');
+});
+
+Route::get('/programa-bilingue', function () {
+    return view('bilingual');
+});
+
+Route::get('/material-sas', function () {
+    return view('material');
+});
+
+Route::get('/contato', function () {
+    return view('contact');
 });
