@@ -4,12 +4,19 @@
 <div class="container-fluid px-0" id="banner">
     <video autoplay muted loop src="/img/video/banner.mp4" id="banner-video" type="video/mp4"></video>
 </div>
+<<<<<<< HEAD
 <div class="container shadow-lg px-0 rounded-5" id="about">
     <div class="row justify-content-around align-items-center">
         <div class="title mt-5">
             <span>Sobre Nós</span>
         </div>
         <h1 class="text-center mb-5 fw-bold">Quem somos</h1>
+=======
+<div class="container" id="about">
+    <div class="row justify-content-around align-items-center">
+        <h2 class="text-center mt-5 fs-7">Sobre Nós</h2>
+        <h1 class="text-center my-5 fw-3">Quem somos</h1>
+>>>>>>> 8b73b3a310a0842d1890ff103d3e4d4539d7743e
         <img class="mx-auto my-auto h-50" src="/img/fachada.png" alt=""/>
         <p class="mt-5 px-5">Desde 1905 somos uma escola que mantém uma tradição de ensino de alta qualidade que nos diferencia das outras da cidade
             e região.
@@ -20,6 +27,7 @@
         <p class="mt-5 px-5">Contamos com um rico capital intelectual de professores excepcionalmente qualificados e experientes, 
             que demonstram o compromisso contínuo com a sua própria atualização na área educacional e desenvolvimento pessoal.
         </p>
+<<<<<<< HEAD
     </div>
     <div class="text-center">
         <a href="/sobre-nos" class="btn btn-outline-primary mx-5 px-5 py-2 my-3">Saber mais</a>
@@ -28,6 +36,15 @@
     <div class="row align-items-center">
         <div class="col">
             <img src="/img/yellow_hat.png" alt="">
+=======
+        <a href="/sobre-nos" class="btn btn-primary">Saber mais</a>
+    </div>
+</div>
+<div class="container text-start mt-5" id="yellow-box">
+    <div class="row align-items-center">
+        <div class="col">
+            <img src="/img/yellow-hat.png" alt="">
+>>>>>>> 8b73b3a310a0842d1890ff103d3e4d4539d7743e
         </div>
         <div class="col">
             <p>Educação de qualidade</p>
@@ -35,11 +52,18 @@
         </div>
     </div>
 </div>
+<<<<<<< HEAD
 </div>
 <div class="container-fluid pt-5 text-center" id="learning">
     <p class="yellow-title ps-5">níveis de ensino</p>
     <h1 class="text-start ps-5 fw-bold">Educação Infantil</h1>
     <img src="/img/infantil.png" alt="" class="w-75 mx-auto"/>
+=======
+<div class="container-fluid pt-5" id="learning">
+    <h2>níveis de ensino</h2>
+    <h1>educação infantil</h1>
+    <img src="/img/infantil.png" alt="" class="w-75"/>
+>>>>>>> 8b73b3a310a0842d1890ff103d3e4d4539d7743e
     <div class="row align-items-center mt-5">
         <div class="col">
             <img src="/img/book.png" alt="">
@@ -49,9 +73,13 @@
             <img src="/img/eng.png" alt="">
             <p class="text-capitalize text-warning mt-3">Programa Bilíngue</p>
         </div>
+<<<<<<< HEAD
     </div>
     <div class="text-center mt-5">
         <a href="/ensinos" class="btn btn-warning mb-5 px-5 rounded-1 fw-bold">Saber Mais</a>
+=======
+        <a href="/ensinos" class="btn btn-warning">Saiba Mais</a>
+>>>>>>> 8b73b3a310a0842d1890ff103d3e4d4539d7743e
     </div>
 </div>
 <div class="container" id="student">
@@ -63,6 +91,7 @@
     </div>
 </div>
 <div class="container" id="bilingue">
+<<<<<<< HEAD
     <div class="title2 mt-5 mb-2">
         <span>Níveis de Ensino</span>
     </div>
@@ -76,16 +105,33 @@
         </div>
     </div>
     <div class="row row-cols-4 align-items-center justify-content-center mb-5">
+=======
+    <h2>niveis de ensino</h2>
+    <h1>programa bilíngue</h1>
+    <p>Criado para transformar o ensino-aprendizado de Inglês das escolas, o StandFor Evolution é um programa de carga horária 
+        que proporciona às crianças e aos adolescentes o estudo e a vivência de uma segunda língua, tornando-os cidadãos bilíngues 
+        e aptos para interagir e ir além.
+    </p>
+    <div class="row">
+>>>>>>> 8b73b3a310a0842d1890ff103d3e4d4539d7743e
         <div class="col">
             <img src="/img/check-squared.png" alt="">
         </div>
         <div class="col">
+<<<<<<< HEAD
             <p class="fw-bold">+360</br>Escolas</p>
         </div>
+=======
+            <p>+360</br>Escolas</p>
+        </div>
+    </div>
+    <div class="row">
+>>>>>>> 8b73b3a310a0842d1890ff103d3e4d4539d7743e
         <div class="col">
             <img src="/img/check-squared.png" alt="">
         </div>
         <div class="col">
+<<<<<<< HEAD
             <p class="fw-bold">+93.500</br>Estudantes</p>
         </div>
     </div>
@@ -115,6 +161,71 @@
 <div class="text-center">
         <a href="/nossa-infraestrutura" class="btn btn-outline-primary text-center">Saber Mais</a>
     </div>
+=======
+            <p>+93.500</br>Estudantes</p>
+        </div>
+    </div>
+    <button class="btn btn-primary">Saber Mais</button>
+</div>
+<div class="container" id="infra">
+    <h2>infraestrutura</h2>
+    <h1>Esteja por dentro da melhor escola de São Carlos</h1>
+    <p>No Colégio São Carlos, proporcionamos mais do que apenas uma educação excepcional - oferecemos um ambiente educacional 
+        verdadeiramente enriquecedor.
+    </p>
+    <p>Nossa escola é um espaço amplo e dinâmico, projetado para inspirar o aprendizado e o crescimento.</p>
+    <img src="/img/pool.png" alt="" class="h-50">
+    <div class="row">
+        <div class="col">
+            <img src="/img/check-rounded.png" alt="">
+        </div>
+        <div class="col">
+            <p>Piscina aquecida</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/img/check-rounded.png" alt="">
+        </div>
+        <div class="col">
+            <p>Biblioteca</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/img/check-rounded.png" alt="">
+        </div>
+        <div class="col">
+            <p>Laboratório</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/img/check-rounded.png" alt="">
+        </div>
+        <div class="col">
+            <p>Quadras cobertas e descobertas</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/img/check-rounded.png" alt="">
+        </div>
+        <div class="col">
+            <p>Salão de dança</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/img/check-rounded.png" alt="">
+        </div>
+        <div class="col">
+            <p>Salas de aulas modernas</p>
+        </div>
+    </div>
+    <button class="btn btn-primary">Saber Mais</button>
+</div>
+>>>>>>> 8b73b3a310a0842d1890ff103d3e4d4539d7743e
 <div class="container mt-5" id="levels">
     <div class="container rounded" id="sas">
         <div class="row align-items-center">
@@ -131,8 +242,11 @@
             <img src="/img/table.png" alt="" class="mx-auto"/>
         </div>
     </div>
+<<<<<<< HEAD
     <div class="text-center mb-5">
         <a href="/material-sas" class="btn btn-outline-primary text-center">Saber Mais</a>
     </div>
+=======
+>>>>>>> 8b73b3a310a0842d1890ff103d3e4d4539d7743e
 </div>
 @endsection

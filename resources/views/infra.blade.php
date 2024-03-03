@@ -4,7 +4,11 @@
 <div class="container">
     <h2 class="pt-5">Sobre Nós</h2>
     <div class="row mt-3 mb-5">
+<<<<<<< HEAD
         <p><a href="/#about" class="navlink">Quem Somos</a> &#62; <a href="/pilares-e-valores" class="navlink">Pilares e Valores</a> &#62; <a href="/nossa-infraestrutura" class="navlink fw-bold">Nossa Infraestrutura</a></p>
+=======
+        <p><a href="/quem-somos" class="navlink">Quem Somos</a> &#62; <a href="/pilares-e-valores" class="navlink">Pilares e Valores</a> &#62; <a href="/nossa-infraestrutura" class="navlink fw-bold">Nossa Infraestrutura</a></p>
+>>>>>>> 8b73b3a310a0842d1890ff103d3e4d4539d7743e
     </div>
     <h1 class="text-center">Nossa Infraestrutura</h1>
     <div class="container">
